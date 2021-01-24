@@ -1,0 +1,20 @@
+
+192.168.1.15 - - [24/Jan/2021:02:54:54 +0000] "GET /otData/faces/index.xhtml HTTP/1.1" 503 250
+192.168.1.15 - - [24/Jan/2021:02:56:58 +0000] "GET /otData/faces/index.xhtml HTTP/1.1" 200 1387
+192.168.1.15 - - [24/Jan/2021:02:57:00 +0000] "GET /otData/faces/javax.faces.resource/css/jsfcrud.css HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:02:57:05 +0000] "GET /otData/faces/contacts/List.xhtml HTTP/1.1" 200 8813
+192.168.1.15 - - [24/Jan/2021:02:57:05 +0000] "GET /otData/faces/javax.faces.resource/jsfcrud.css?ln=css HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:02:57:05 +0000] "GET /otData/faces/javax.faces.resource/jsf.js?ln=javax.faces&stage=Development HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:02:57:07 +0000] "POST /otData/faces/contacts/List.xhtml HTTP/1.1" 200 2141
+192.168.1.15 - - [24/Jan/2021:02:57:07 +0000] "GET /otData/faces/javax.faces.resource/jsfcrud.css?ln=css HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:02:57:07 +0000] "GET /otData/faces/javax.faces.resource/jsf.js?ln=javax.faces&stage=Development HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:02:57:09 +0000] "GET /otData/faces/contacts/List.xhtml HTTP/1.1" 200 8812
+192.168.1.15 - - [24/Jan/2021:02:57:12 +0000] "GET /otData/faces/products/List.xhtml HTTP/1.1" 200 9198
+192.168.1.15 - - [24/Jan/2021:02:57:13 +0000] "GET /otData/faces/javax.faces.resource/jsfcrud.css?ln=css HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:02:57:13 +0000] "GET /otData/faces/javax.faces.resource/jsf.js?ln=javax.faces&stage=Development HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:19:33:41 +0000] "GET /otData/faces/index.xhtml HTTP/1.1" 200 1387
+192.168.1.15 - - [24/Jan/2021:19:33:42 +0000] "GET /otData/faces/javax.faces.resource/css/jsfcrud.css HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:19:33:44 +0000] "GET /otData/faces/regions/List.xhtml HTTP/1.1" 200 3717
+192.168.1.15 - - [24/Jan/2021:19:33:44 +0000] "GET /otData/faces/javax.faces.resource/jsfcrud.css?ln=css HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:19:33:44 +0000] "GET /otData/faces/javax.faces.resource/jsf.js?ln=javax.faces&stage=Development HTTP/1.1" 304 -
+192.168.1.15 - - [24/Jan/2021:19:52:44 +0000] "GET /otData HTTP/1.1" 302 259

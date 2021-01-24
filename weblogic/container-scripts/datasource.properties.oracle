@@ -1,0 +1,9 @@
+dsname=CAPESDS01
+dsdbname=default;create=true
+dsjndiname=jdbc/CAPESDS01
+dsdriver=oracle.jdbc.OracleDriver
+dsurl=jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS=(PROTOCOL=tcps)(HOST=hsoftdevdb01.hcd.ca.gov)(PORT=2484))(CONNECT_DATA=(SERVICE_NAME=hsoftdev)))
+dsusername=capesweb
+dspassword=capesweb
+dstestquery=SQL ISVALID
+dsmaxcapacity=1

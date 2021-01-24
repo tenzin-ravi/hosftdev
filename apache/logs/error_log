@@ -1,0 +1,21 @@
+
+[Tue Jan 19 01:21:06.067370 2021] [suexec:notice] [pid 10:tid 139952956414272] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Jan 19 01:21:06.075488 2021] [lbmethod_heartbeat:notice] [pid 10:tid 139952956414272] AH02282: No slotmem from mod_heartmonitor
+[Tue Jan 19 01:21:06.075798 2021] [weblogic:notice] [pid 10:tid 139952956414272] WebLogic Server Plugin version 12.2.1.4.0 <WLSPLUGINS_12.2.1.4.0_LINUX.X64_190912.1848>
+[Tue Jan 19 01:21:06.177663 2021] [mpm_event:notice] [pid 10:tid 139952956414272] AH00489: Apache/2.4.37 (Oracle Linux) OpenSSL/1.1.1g configured -- resuming normal operations
+[Tue Jan 19 01:21:06.177675 2021] [core:notice] [pid 10:tid 139952956414272] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 24 02:24:25.140721 2021] [suexec:notice] [pid 9:tid 139924854618432] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jan 24 02:24:25.149015 2021] [lbmethod_heartbeat:notice] [pid 9:tid 139924854618432] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 24 02:24:25.149376 2021] [weblogic:notice] [pid 9:tid 139924854618432] WebLogic Server Plugin version 12.2.1.4.0 <WLSPLUGINS_12.2.1.4.0_LINUX.X64_190912.1848>
+[Sun Jan 24 02:24:25.251458 2021] [mpm_event:notice] [pid 9:tid 139924854618432] AH00489: Apache/2.4.37 (Oracle Linux) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sun Jan 24 02:24:25.251469 2021] [core:notice] [pid 9:tid 139924854618432] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 24 02:29:19.315651 2021] [suexec:notice] [pid 9:tid 140088659732800] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jan 24 02:29:19.324059 2021] [lbmethod_heartbeat:notice] [pid 9:tid 140088659732800] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 24 02:29:19.324381 2021] [weblogic:notice] [pid 9:tid 140088659732800] WebLogic Server Plugin version 12.2.1.4.0 <WLSPLUGINS_12.2.1.4.0_LINUX.X64_190912.1848>
+[Sun Jan 24 02:29:19.426322 2021] [mpm_event:notice] [pid 9:tid 140088659732800] AH00489: Apache/2.4.37 (Oracle Linux) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sun Jan 24 02:29:19.426332 2021] [core:notice] [pid 9:tid 140088659732800] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jan 24 02:54:41.534318 2021] [suexec:notice] [pid 9:tid 140152859048256] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jan 24 02:54:41.542752 2021] [lbmethod_heartbeat:notice] [pid 9:tid 140152859048256] AH02282: No slotmem from mod_heartmonitor
+[Sun Jan 24 02:54:41.543062 2021] [weblogic:notice] [pid 9:tid 140152859048256] WebLogic Server Plugin version 12.2.1.4.0 <WLSPLUGINS_12.2.1.4.0_LINUX.X64_190912.1848>
+[Sun Jan 24 02:54:41.644933 2021] [mpm_event:notice] [pid 9:tid 140152859048256] AH00489: Apache/2.4.37 (Oracle Linux) OpenSSL/1.1.1g configured -- resuming normal operations
+[Sun Jan 24 02:54:41.644942 2021] [core:notice] [pid 9:tid 140152859048256] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
