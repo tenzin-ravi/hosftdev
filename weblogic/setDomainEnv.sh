@@ -513,8 +513,8 @@ fi
 
 JAVA_OPTIONS="${JAVA_OPTIONS}" 
 JAVA_OPTIONS="$JAVA_OPTIONS -Djavax.net.ssl.keyStore=/u01/oracle/user_projects/domains/hsoftdev/security/identity.jks \
-	-Djavax.net.ssl.keyStorePassword=Covid192020 -Djavax.net.ssl.trustStore=/u01/oracle/user_projects/domains/hsoftdev/security/trust.jks \
-	-Djavax.net.ssl.trustStorePassword=Covid192020 -Duser.timezone=PST"
+	-Djavax.net.ssl.keyStorePassword={your password} -Djavax.net.ssl.trustStore=/u01/oracle/user_projects/domains/hsoftdev/security/trust.jks \
+	-Djavax.net.ssl.trustStorePassword={your password} -Duser.timezone=PST"
 
 export JAVA_OPTIONS
 
